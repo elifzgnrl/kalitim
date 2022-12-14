@@ -1,4 +1,4 @@
-# kalitim
+# Python' da Class Oluşturma
 Python' da Class Oluşturma
 
 
