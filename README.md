@@ -2,7 +2,7 @@
 Python' da Class Oluşturma
 
 
-Python' da bir obje oluşturacağımız zaman bunu şablon olarak sınıf yapılarıyla gerçekleştirebiliriz. Obje bir sınıf örneğidir ve obje sınıf tarafından veri ve tanımlanan fonksiyonları ya da methotları içerir. Sınıflar bize objeyi şekillendirmede veri ve methotların tanımlanmasına izin verir ayrıca, aynı karakteristikler ya da özellikler ile çoklu objeler yaratmak için kullanılır
+Python' da bir obje oluşturacağımız zaman bunu şablon olarak sınıf yapılarıyla gerçekleştirebiliriz. Obje, bir sınıf örneğidir ve sınıf tarafından tanımlanan veri, fonksiyon ya da methot içerir. Sınıflar bize objeyi şekillendirmede veri ve methotların tanımlanmasına izin verir ayrıca, aynı karakteristikler ya da özellikler ile çoklu objeler yaratmak için kullanılır.
 
 Örnek bir kod bloğu ile bunu inceleyelim:
 ```python
